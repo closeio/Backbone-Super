@@ -2,10 +2,7 @@
   "name": "backbone-super",
   "version": "1.0.0",
   "description": "This Backbone.js plugin provides a convenient super method.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "./backbone-super/backbone-super.js",
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
